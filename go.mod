@@ -1,4 +1,4 @@
-module github.com/pedroalbanese/Grain128AEAD
+module github.com/pedroalbanese/grain
 
 go 1.15
 
