@@ -10,7 +10,7 @@ A lightweight AEAD stream cipher submitted to the CAESAR competition for authent
 ### Command-line Grain128AEAD Encryption Tool
 <pre>Usage of grain:
 grain [-d] -p "pass" [-i N] [-s "salt"] -f &lt;file.ext&gt;
-  -d    Decrypt instead Encrypt.
+  -d    Decrypt instead of Encrypt.
   -f string
         Target file. ('-' for STDIN)
   -i int
