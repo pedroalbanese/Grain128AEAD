@@ -10,6 +10,8 @@ Grain is a stream cipher submitted to eSTREAM in 2004 by Martin Hell, Thomas Joh
 ### Command-line Grain128AEAD Encryption Tool. 
 <pre>Usage of grain:
 grain [-d] -p "pass" [-i N] [-s "salt"] -f &lt;file.ext&gt;
+  -a string
+        Additional Associated Data.
   -d    Decrypt instead of Encrypt.
   -f string
         Target file. ('-' for STDIN)
