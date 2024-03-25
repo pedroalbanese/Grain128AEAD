@@ -1,4 +1,4 @@
-module github.com/pedroalbanese/grain
+module github.com/pedroalbanese/graincrypt
 
 go 1.15
 
